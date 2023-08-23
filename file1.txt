@@ -1,0 +1,25 @@
+
+1 Ooty Bengaluru Airavat Mysuru 17.45
+2 Ooty Bengaluru Airavat Club Class Mysuru 7.15
+3 Ooty Bengaluru Airavat Club Class Mysuru 10.00
+4 Ooty Bengaluru Airavat Club Class Mysuru 11.18
+5 Ooty Bengaluru Airavat Club Class Mysuru 15.30
+6 Ooty Bengaluru Express Mysuru 11.30
+7 Ooty Bengaluru Mutti-Axle Mysuru 22.23
+8 Ooty Bengaluru Mutti-Axle Mysuru 22.31
+9 Conoor Bengaluru Non A/C Sleeper Ooty, Mysuru 18.00
+10 Ooty Channarayapatna Express Mysuru 8.45
+11 Ooty Gundlupet Express Mysuru 13.30
+12 Ooty Gundlupet Express Mysuru 17.00
+13 Ooty H.D.Kote Express Mysuru 13.45
+14 Ooty Kollegala Express Gudalur, Gundlupet, Chamarajanagara 14.00
+15 Ooty Madikeri Express Mysuru 7.00
+16 Ooty Mandya Express Mysuru 15.00
+17 Ooty Mangaluru Rajahamsa Mysuru 16.30
+18 Ooty Mysuru Express Gudalur 8.24
+19 Ooty Mysuru Express Gudalur 13.00
+20 Ooty Mysuru Express Gudalur 16.00
+21 Ooty Mysuru Rajahamsa Gudalur 14.00
+22 Ooty Ramanathapura Express Mysuru 7.30
+23 Ooty Shivamogga Express Gudalur, Gundlupet, Mysuru Channarayapattana, Aarasikere 6.30
+24 Ooty Shivamogga Express Gudalur 13.30
